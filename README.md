@@ -2,12 +2,13 @@
 
 ## Create checkboxes with the following tasks:  
 
-* [ ] [External Link](#addanexternallinktothegithubdocumentation)
+* [ ] [External Link](#external-link)
 * [X] Internal Link
 * [ ] Images
 * [X] Emojis
 * [ ] Tables
-      
+
+<a name="external-link"> </a>      
 ## Add an external link to the github documentation. https://help.github.com/en
 [Github Documentation](https://help.github.com/en)
 
