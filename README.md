@@ -2,7 +2,7 @@
 
 ## Create checkboxes with the following tasks:  
 
-* [ ] External Link
+* [ ] [External Link](Add an external link to the github documentation.)
 * [X] Internal Link
 * [ ] Images
 * [X] Emojis
@@ -15,10 +15,17 @@
 [Images](./images)
 
 ## Add the image from the images folder.
+[Logo](./images/logo.png)
 
 ## Add an emoji.
+:sweat_smile: 
 
 ## Add a table with two headings, names and class. Populate at least two rows of the table.
+
+| Name | Class         |
+| ---- | ------------- | 
+| John | BMW           | 
+| Jack | Opel          | 
 
 ## Link each of the secondary headings to the respective checkbox items.
 
